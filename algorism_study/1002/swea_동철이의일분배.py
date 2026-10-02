@@ -1,6 +1,6 @@
 import sys
 sys.stdin = open("swea_동철이의일분배.txt")
-
+# 방가방가
 def calculate_price(level, cur_price):
     global max_price
     if cur_price <= max_price:
